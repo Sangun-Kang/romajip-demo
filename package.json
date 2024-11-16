@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "romajip": "^0.0.7"
+    "romajip": "^0.0.8"
   },
   "devDependencies": {
     "@eslint/js": "^9.13.0",
